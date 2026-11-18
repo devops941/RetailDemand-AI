@@ -1,0 +1,71 @@
+date,product_id,product_name,category,store_id,quantity_sold,unit_price,discount_percentage,promotion_type,holiday_indicator
+2024-01-01,PROD001,Wireless Headphones,Electronics,STORE01,48,49.99,20,Holiday_Special,1
+2024-01-01,PROD002,Smart Watch Pro,Wearables,STORE01,58,99.99,20,Holiday_Special,1
+2024-01-02,PROD001,Wireless Headphones,Electronics,STORE01,24,49.99,0,None,0
+2024-01-02,PROD002,Smart Watch Pro,Wearables,STORE01,34,99.99,0,None,0
+2024-01-03,PROD001,Wireless Headphones,Electronics,STORE01,25,49.99,0,None,0
+2024-01-03,PROD002,Smart Watch Pro,Wearables,STORE01,35,99.99,0,None,0
+2024-01-04,PROD001,Wireless Headphones,Electronics,STORE01,36,49.99,15,BOGO,0
+2024-01-04,PROD002,Smart Watch Pro,Wearables,STORE01,46,99.99,15,BOGO,0
+2024-01-05,PROD001,Wireless Headphones,Electronics,STORE01,27,49.99,0,None,0
+2024-01-05,PROD002,Smart Watch Pro,Wearables,STORE01,37,99.99,0,None,0
+2024-01-06,PROD001,Wireless Headphones,Electronics,STORE01,41,49.99,10,Weekend_Sale,0
+2024-01-06,PROD002,Smart Watch Pro,Wearables,STORE01,51,99.99,10,Weekend_Sale,0
+2024-01-07,PROD001,Wireless Headphones,Electronics,STORE01,42,49.99,10,Weekend_Sale,0
+2024-01-07,PROD002,Smart Watch Pro,Wearables,STORE01,52,99.99,10,Weekend_Sale,0
+2024-01-08,PROD001,Wireless Headphones,Electronics,STORE01,25,49.99,0,None,0
+2024-01-08,PROD002,Smart Watch Pro,Wearables,STORE01,35,99.99,0,None,0
+2024-01-09,PROD001,Wireless Headphones,Electronics,STORE01,26,49.99,0,None,0
+2024-01-09,PROD002,Smart Watch Pro,Wearables,STORE01,36,99.99,0,None,0
+2024-01-10,PROD001,Wireless Headphones,Electronics,STORE01,27,49.99,0,None,0
+2024-01-10,PROD002,Smart Watch Pro,Wearables,STORE01,37,99.99,0,None,0
+2024-01-11,PROD001,Wireless Headphones,Electronics,STORE01,33,49.99,15,BOGO,0
+2024-01-11,PROD002,Smart Watch Pro,Wearables,STORE01,43,99.99,15,BOGO,0
+2024-01-12,PROD001,Wireless Headphones,Electronics,STORE01,24,49.99,0,None,0
+2024-01-12,PROD002,Smart Watch Pro,Wearables,STORE01,34,99.99,0,None,0
+2024-01-13,PROD001,Wireless Headphones,Electronics,STORE01,43,49.99,10,Weekend_Sale,0
+2024-01-13,PROD002,Smart Watch Pro,Wearables,STORE01,53,99.99,10,Weekend_Sale,0
+2024-01-14,PROD001,Wireless Headphones,Electronics,STORE01,44,49.99,10,Weekend_Sale,0
+2024-01-14,PROD002,Smart Watch Pro,Wearables,STORE01,54,99.99,10,Weekend_Sale,0
+2024-01-15,PROD001,Wireless Headphones,Electronics,STORE01,52,49.99,20,Holiday_Special,1
+2024-01-15,PROD002,Smart Watch Pro,Wearables,STORE01,62,99.99,20,Holiday_Special,1
+2024-01-16,PROD001,Wireless Headphones,Electronics,STORE01,23,49.99,0,None,0
+2024-01-16,PROD002,Smart Watch Pro,Wearables,STORE01,33,99.99,0,None,0
+2024-01-17,PROD001,Wireless Headphones,Electronics,STORE01,24,49.99,0,None,0
+2024-01-17,PROD002,Smart Watch Pro,Wearables,STORE01,34,99.99,0,None,0
+2024-01-18,PROD001,Wireless Headphones,Electronics,STORE01,35,49.99,15,BOGO,0
+2024-01-18,PROD002,Smart Watch Pro,Wearables,STORE01,45,99.99,15,BOGO,0
+2024-01-19,PROD001,Wireless Headphones,Electronics,STORE01,26,49.99,0,None,0
+2024-01-19,PROD002,Smart Watch Pro,Wearables,STORE01,36,99.99,0,None,0
+2024-01-20,PROD001,Wireless Headphones,Electronics,STORE01,45,49.99,10,Weekend_Sale,0
+2024-01-20,PROD002,Smart Watch Pro,Wearables,STORE01,55,99.99,10,Weekend_Sale,0
+2024-01-21,PROD001,Wireless Headphones,Electronics,STORE01,41,49.99,10,Weekend_Sale,0
+2024-01-21,PROD002,Smart Watch Pro,Wearables,STORE01,51,99.99,10,Weekend_Sale,0
+2024-01-22,PROD001,Wireless Headphones,Electronics,STORE01,24,49.99,0,None,0
+2024-01-22,PROD002,Smart Watch Pro,Wearables,STORE01,34,99.99,0,None,0
+2024-01-23,PROD001,Wireless Headphones,Electronics,STORE01,25,49.99,0,None,0
+2024-01-23,PROD002,Smart Watch Pro,Wearables,STORE01,35,99.99,0,None,0
+2024-01-24,PROD001,Wireless Headphones,Electronics,STORE01,26,49.99,0,None,0
+2024-01-24,PROD002,Smart Watch Pro,Wearables,STORE01,36,99.99,0,None,0
+2024-01-25,PROD001,Wireless Headphones,Electronics,STORE01,37,49.99,15,BOGO,0
+2024-01-25,PROD002,Smart Watch Pro,Wearables,STORE01,47,99.99,15,BOGO,0
+2024-01-26,PROD001,Wireless Headphones,Electronics,STORE01,48,49.99,20,Holiday_Special,1
+2024-01-26,PROD002,Smart Watch Pro,Wearables,STORE01,58,99.99,20,Holiday_Special,1
+2024-01-27,PROD001,Wireless Headphones,Electronics,STORE01,32,49.99,0,None,0
+2024-01-27,PROD002,Smart Watch Pro,Wearables,STORE01,42,99.99,0,None,0
+2024-01-28,PROD001,Wireless Headphones,Electronics,STORE01,33,49.99,0,None,0
+2024-01-28,PROD002,Smart Watch Pro,Wearables,STORE01,43,99.99,0,None,0
+2024-01-29,PROD001,Wireless Headphones,Electronics,STORE01,26,49.99,0,None,0
+2024-01-29,PROD002,Smart Watch Pro,Wearables,STORE01,36,99.99,0,None,0
+2024-01-30,PROD001,Wireless Headphones,Electronics,STORE01,27,49.99,0,None,0
+2024-01-30,PROD002,Smart Watch Pro,Wearables,STORE01,37,99.99,0,None,0
+2024-01-31,PROD001,Wireless Headphones,Electronics,STORE01,23,49.99,0,None,0
+2024-01-31,PROD002,Smart Watch Pro,Wearables,STORE01,33,99.99,0,None,0
+2024-02-01,PROD001,Wireless Headphones,Electronics,STORE01,34,49.99,15,BOGO,0
+2024-02-01,PROD002,Smart Watch Pro,Wearables,STORE01,44,99.99,15,BOGO,0
+2024-02-02,PROD001,Wireless Headphones,Electronics,STORE01,25,49.99,0,None,0
+2024-02-02,PROD002,Smart Watch Pro,Wearables,STORE01,35,99.99,0,None,0
+2024-02-03,PROD001,Wireless Headphones,Electronics,STORE01,34,49.99,0,None,0
+2024-02-03,PROD002,Smart Watch Pro,Wearables,STORE01,44,99.99,0,None,0
+2024-02-04,PROD001,Wireless Headphones,Electronics,STORE01,35,49.99,0,None,0
+2024-02-04,PROD002,Smart Watch Pro,Wearables,STORE01,45,99.99,0,None,0

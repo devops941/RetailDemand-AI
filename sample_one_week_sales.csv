@@ -1,0 +1,9 @@
+date,product_id,product_name,category,store_id,quantity_sold,unit_price,discount_percentage,promotion_type,holiday_indicator
+2024-11-11,PROD001,Wireless Headphones,Electronics,STORE01,15,49.99,0,None,0
+2024-11-12,PROD001,Wireless Headphones,Electronics,STORE01,18,49.99,0,None,0
+2024-11-13,PROD001,Wireless Headphones,Electronics,STORE01,35,44.99,10,Flash_Sale,0
+2024-11-14,PROD001,Wireless Headphones,Electronics,STORE01,20,49.99,0,None,0
+2024-11-15,PROD001,Wireless Headphones,Electronics,STORE01,28,49.99,0,None,0
+2024-11-16,PROD001,Wireless Headphones,Electronics,STORE01,55,49.99,0,None,0
+2024-11-17,PROD001,Wireless Headphones,Electronics,STORE01,80,39.99,20,BOGO,1
+

@@ -1,0 +1,30 @@
+from app.models.user import User
+from typing import Optional
+
+
+class UserRepository:
+    @staticmethod
+    async def find_by_email(email: str) -> Optional[User]:
+        return await User.find_one(User.email == email)
+
+    @staticmethod
+    async def find_by_id(user_id: str) -> Optional[User]:
+        return await User.get(user_id)
+
+    @staticmethod
+    async def create(user: User) -> User:
+        await user.insert()
+        return user
+
+    @staticmethod
+    async def update(user: User) -> User:
+        await user.save()
+        return user
+
+    @staticmethod
+    async def delete(user: User):
+        await user.delete()
+
+    @staticmethod
+    async def list_all():
+        return await User.find_all().to_list()

@@ -1,0 +1,12 @@
+date,product_id,product_name,category,store_id,quantity_sold,unit_price,discount_percentage,promotion_type,holiday_indicator
+2024-11-01,PROD001,Wireless Headphones,Electronics,STORE01,25,49.99,0,None,0
+2024-11-01,PROD002,Running Shoes,Footwear,STORE01,40,89.99,10,Flash_Sale,0
+2024-11-01,PROD003,Smart Watch Pro,Wearables,STORE01,30,119.99,0,None,0
+2024-11-01,PROD004,Coffee Maker,Home Appliances,STORE01,15,69.99,15,Seasonal,0
+2024-11-01,PROD005,Gaming Mouse,Accessories,STORE01,50,29.99,0,None,0
+2024-11-01,PROD006,Bluetooth Speaker,Electronics,STORE01,35,39.99,20,BOGO,0
+2024-11-01,PROD007,Yoga Mat,Fitness,STORE01,20,19.99,0,None,0
+2024-11-01,PROD008,Backpack Classic,Luggage,STORE01,28,45.00,5,Seasonal,0
+2024-11-01,PROD009,Organic Green Tea,Groceries,STORE01,80,12.50,0,None,0
+2024-11-01,PROD010,LED Desk Lamp,Home Decor,STORE01,22,24.99,0,None,0
+
